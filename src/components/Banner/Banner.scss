@@ -1,0 +1,19 @@
+.banner{
+    background-color: #FA0032;
+    text-align: center;
+    width:100%;
+    padding: 10px;
+    .logo{
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        img{
+            width: 100%;
+        }
+    }
+    img{
+        max-width: 90%;
+    }
+    
+}

@@ -1,0 +1,18 @@
+.banner {
+  background-color: #FA0032;
+  text-align: center;
+  width: 100%;
+  padding: 10px;
+}
+.banner .logo {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.banner .logo img {
+  width: 100%;
+}
+.banner img {
+  max-width: 90%;
+}/*# sourceMappingURL=Banner.css.map */
